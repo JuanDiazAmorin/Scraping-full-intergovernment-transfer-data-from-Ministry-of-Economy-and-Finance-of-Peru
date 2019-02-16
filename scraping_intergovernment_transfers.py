@@ -16,7 +16,6 @@ from selenium.webdriver.support.ui import Select
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-
 chromedriver = 'C:/Users/juan.diaz/Desktop/chromedriver'
 driver = webdriver.Chrome(chromedriver)
 
