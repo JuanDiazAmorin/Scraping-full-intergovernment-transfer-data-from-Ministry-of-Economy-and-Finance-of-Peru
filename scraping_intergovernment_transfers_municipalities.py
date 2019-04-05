@@ -72,7 +72,6 @@ for k in range(2004, current_year):
         
         return_items = driver.find_element_by_id('ImgBack').click()
   
-
 data = {'variable': variable, 'year':year, 'region': region,
         'authorized_amount': authorized_amount, 'registered_amount': registered_amount}
  
